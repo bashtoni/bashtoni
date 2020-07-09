@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**bashtoni/bashtoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sam Bashton.
 
-Here are some ideas to get you started:
+I'm a Cloud Computing guy. I got to do it all on 'easy mode': when I started,
+there was only S3 and SQS, and I only had to incrementally learn all the rest when
+they were released.
+I'm a big fan of 'serverless' technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I run Fedora Linux on my desktop and my editor of choice is Vim.
+
+My [github gists](https://gist.github.com/bashtoni) have a load of random AWS
+CLI / bash one liners that you might find useful.
+
+- 📫 Email: sam@hairlessyaks.net
+- [💬 Twitter](https://twitter.com/bashtoni/)
+
+PS: No, I didn't write bash.
